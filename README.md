@@ -38,9 +38,8 @@ You will create a Postman collection and create a REST test within the project. 
 
 ## Submission
 - Create a readme.md at the root of your github repository with the embedded (markdown) 
-    - Within the collection click the (…), share collection -> Embed
-        - Static Button
-        - Click update link
+    - Within the collection click the (…), share collection -> Run in Postman
+        - Markdown friendly link
         - Include your environment settings
         - Copy to clipboard 
     - Check-in googlebooks command API with your change to google books
@@ -66,4 +65,4 @@ var allIssuesAreClosed = issues.every(function(issue) {
 });
 tests["All issues are closed"] = allIssuesAreClosed;  
 ```
-[<img src="https://run.pstmn.io/button.svg" alt="Run In Postman" style="width: 128px; height: 32px;">](https://app.getpostman.com/run-collection/35315-aee7573d-7d39-4669-a786-8f7ae9c60365?action=collection%2Ffork&source=rip_markdown&collection-url=entityId%3D35315-aee7573d-7d39-4669-a786-8f7ae9c60365%26entityType%3Dcollection%26workspaceId%3D2d442583-1300-4d30-9dc5-f0bb7115cc91#?env%5Bshawn-hw0%5D=W3sia2V5IjoiYm9va190aXRsZSIsInZhbHVlIjoidHVyaW5nIiwiZW5hYmxlZCI6dHJ1ZSwidHlwZSI6ImRlZmF1bHQiLCJzZXNzaW9uVmFsdWUiOiJUdXJpbmciLCJzZXNzaW9uSW5kZXgiOjB9LHsia2V5IjoiaWQiLCJ2YWx1ZSI6IiIsImVuYWJsZWQiOnRydWUsInR5cGUiOiJhbnkiLCJzZXNzaW9uVmFsdWUiOiI0bXVZRHdBQVFCQUoiLCJzZXNzaW9uSW5kZXgiOjF9XQ==)
+[<img src="https://run.pstmn.io/button.svg" alt="Run In Postman" style="width: 128px; height: 32px;">](https://app.getpostman.com/run-collection/35315-d80d079c-5158-4969-bf67-90dd80aa1dc4?action=collection%2Ffork&source=rip_markdown&collection-url=entityId%3D35315-d80d079c-5158-4969-bf67-90dd80aa1dc4%26entityType%3Dcollection%26workspaceId%3D9537543c-3737-4557-a3ce-8c5ed9249378#?env%5Bmccarthy-hw0%5D=W3sia2V5IjoiYm9va19pZCIsInZhbHVlIjoiIiwiZW5hYmxlZCI6dHJ1ZSwidHlwZSI6ImFueSIsInNlc3Npb25WYWx1ZSI6IjRQWjZEQUFBUUJBSiIsImNvbXBsZXRlU2Vzc2lvblZhbHVlIjoiNFBaNkRBQUFRQkFKIiwic2Vzc2lvbkluZGV4IjowfV0=)
